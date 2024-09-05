@@ -1,4 +1,4 @@
-## Welcome to SDG Analytics in R!  🌊 🌱 🌎
+## Welcome to GIS for Sustainability and Resilience, Vector Techniques!  🌊 🌱 🌎
 
 Here is the [course website](https://nsf-all-spice-alliance.github.io/SDG-Analytics-in-R/)! It contains everything you will need to succeed in the course
 
@@ -6,15 +6,21 @@ Here is the [course website](https://nsf-all-spice-alliance.github.io/SDG-Analyt
 
 We strongly encourage you to attend office hours for any reason at all 😎
 
+(Zoom link sent in welcome email)
+
 - Troubleshooting code
 - Chatting about the theory behind the code
-- Chatting about the UN and SDG's overall
+- Chatting about the GIS and sustainability overall
 - Hanging out 
 
-🕥 Tuesday 9:00 - 10:30 | [On Zoom](https://us05web.zoom.us/j/83176060372?pwd=vyCMqEua7b67HLtafSxMRpAte7iTtr.1)
+(Dates and times in Hawaiʻi Standard Time)
 
 
-🕥 Thursday 3:00 - 4:30 | In Person at CUH (Upstairs Data Science Center) **or** [on Zoom](https://chaminade.zoom.us/j/92068405310)
+🕥 Tuesdays 11:00am - 12:00pm
+
+🕥 Wednesdays 7:00am - 9:00am
+
+🕥 Thursdays 9:00am - 10:00am
 
 
 ### Course Outline
